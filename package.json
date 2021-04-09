@@ -1,0 +1,19 @@
+{
+  "name": "finapi",
+  "version": "1.0.0",
+  "description": "An API exposing endpoints ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmaina5054/finapi.git"
+  },
+  "author": "Dmaina5054",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmaina5054/finapi/issues"
+  },
+  "homepage": "https://github.com/Dmaina5054/finapi#readme"
+}
